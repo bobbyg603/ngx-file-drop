@@ -1,5 +1,5 @@
 {
-  "repository": "georgipeltekov/ngx-file-drop",
+  "repository": "bobbyg603/ngx-file-drop",
   "engines": {
     "node": ">= 16.13.0",
     "npm": ">= 8.1.0"
