@@ -25,9 +25,8 @@
           "defaultConfiguration": "production"
         },
         "lint": {
-          "builder": "@angular-devkit/build-angular:tslint",
+          "builder": "@angular-eslint/builder:lint",
           "options": {
-            "eslintConfig": ".eslintrc.json",
             "lintFilePatterns": ["**/*.spec.ts", "**/*.ts"]
           }
         }
